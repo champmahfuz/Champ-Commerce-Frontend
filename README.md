@@ -12,10 +12,13 @@ Simple Web App [Champ Commerce](https://champ-commerce-frontend.vercel.app/).
 
 # Techonoloy
 
-# Front End: Ract & Javascript and using some third party tools
+# Front End:
 
-# Backend : Node Js, Express Js, Mongo DB
+Ract & Javascript and using some third party tools
 
+# Backend :
+
+Node Js, Express Js, Mongo DB
 [Backend Code Live Link](https://champ-commerce-server-d66jtmc1k-champmahfuz.vercel.app).
 [Backend Code Link](https://github.com/champmahfuz/Champ-Commerce-Backend).
 
