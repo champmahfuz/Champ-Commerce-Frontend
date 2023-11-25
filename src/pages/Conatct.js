@@ -18,9 +18,9 @@ const Contact = () => {
                         any query and info about prodduct feel free to call anytime we 24X7
                         vaialible
                     </p>
-                    <p className="mt-3">
+                    {/* <p className="mt-3">
                         <BiMailSend /> : www.help@ecommerceapp.com
-                    </p>
+                    </p> */}
                     <p className="mt-3">
                         <BiPhoneCall /> : 012-3456789
                     </p>
